@@ -5,8 +5,8 @@
 ######################################33
 
 #variables
-$regionalsettingsURL = "https://raw.githubusercontent.com/averkinderen/Azure/master/101-ServerBuild/AURegion.xml"
-$RegionalSettings = "D:\AURegion.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/gibonlabsthlm/regionalsettings/main/swedish.xml"
+$RegionalSettings = "C:\swedish.xml"
 
 
 #downdload regional settings file
